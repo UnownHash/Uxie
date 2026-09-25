@@ -22,31 +22,7 @@
       { "pokemon_id": 293, "form": 0 },
       { "pokemon_id": 293, "form": 1442 },
       { "pokemon_id": 355, "form": 0 },
-      { "pokemon_id": 355, "form": 914 },
-      { "pokemon_id": 1, "form": 0 },
-      { "pokemon_id": 1, "form": 163 },
-      { "pokemon_id": 4, "form": 0 },
-      { "pokemon_id": 4, "form": 172 },
-      { "pokemon_id": 7, "form": 0 },
-      { "pokemon_id": 7, "form": 181 },
-      { "pokemon_id": 25, "form": 0 },
-      { "pokemon_id": 25, "form": 598 },
-      { "pokemon_id": 107, "form": 0 },
-      { "pokemon_id": 107, "form": 277 },
-      { "pokemon_id": 183, "form": 0 },
-      { "pokemon_id": 183, "form": 1196 },
-      { "pokemon_id": 529, "form": 0 },
-      { "pokemon_id": 529, "form": 1991 },
-      { "pokemon_id": 704, "form": 0 },
-      { "pokemon_id": 704, "form": 3065 },
-      { "pokemon_id": 415, "form": 0 },
-      { "pokemon_id": 415, "form": 1715 },
-      { "pokemon_id": 123, "form": 0 },
-      { "pokemon_id": 123, "form": 247 },
-      { "pokemon_id": 185, "form": 0 },
-      { "pokemon_id": 185, "form": 1202 },
-      { "pokemon_id": 532, "form": 0 },
-      { "pokemon_id": 532, "form": 2000 }
+      { "pokemon_id": 355, "form": 914 }
     ]
   }
 }
